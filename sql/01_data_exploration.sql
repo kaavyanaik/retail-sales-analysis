@@ -1,7 +1,3 @@
-use RetailSalesDB
-go
-
-select * from retail_sales;
 
 -- File: 01_data_exploration.sql
 -- Purpose: Initial data checks and exploration
