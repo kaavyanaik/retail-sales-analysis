@@ -30,6 +30,3 @@ Sourced from Kaggle: [Online Retail II Dataset](https://www.kaggle.com/datasets/
 5. Most returned items
 6. Peak sales hours
 
-## 📌 Status
-✅ Completed core SQL analysis  
-🔄 Optional: Add Python charts next
