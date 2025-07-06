@@ -19,7 +19,7 @@ Sourced from Kaggle: [Online Retail II Dataset](https://www.kaggle.com/datasets/
 ## 📂 Project Structure
 - `data/`: CSV file from Kaggle
 - `sql/`: SQL queries for analysis
-- `charts/`: Visualizations (if any)
+- `charts/`: Visualizations 
 - `README.md`: Project summary
 
 ## 🧠 Questions Answered
